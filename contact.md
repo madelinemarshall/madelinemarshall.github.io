@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Contact
-tagline: Create a contact form and you are good to go
-ref: contact
+title: Publications
+ref: publications
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+A list of publications coming soon...
 
 [Go to the Home Page]({{ '/' | absolute_url }})
