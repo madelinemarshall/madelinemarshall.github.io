@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Astrophysics PhD student at the University of Melbourne
+Hi! I'm Maddie, an astrophysics PhD student at the University of Melbourne, Australia. I study the host galaxies of supermassive black holes in the early Universe using computer simulations and space telescopes.
