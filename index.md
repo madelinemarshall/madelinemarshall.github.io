@@ -9,3 +9,7 @@ layout: home
 ---
 
 Astrophysics PhD student at the University of Melbourne
+
+[CV]({{ '/cv' | absolute_url }})
+
+[Publications]({{ '/publications' | absolute_url }})
