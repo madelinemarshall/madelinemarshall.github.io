@@ -1,3 +1,4 @@
 name: Madeline Marshall
 markdown: kramdown
-theme: flexible-jekyll
+theme: jekyll-theme-cayman
+title: Madeline Marshall
