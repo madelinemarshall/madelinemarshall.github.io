@@ -1,2 +1,3 @@
 name: Madeline Marshall
-markdow: kramdown
+markdown: kramdown
+theme: flexible-jekyll
