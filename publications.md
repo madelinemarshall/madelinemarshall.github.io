@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+tagline: Details and abstracts of authored manuscripts
 ref: publications
 order: 1
 ---
@@ -23,4 +24,4 @@ order: 1
 
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Back to home page]({{ '/' | absolute_url }})
