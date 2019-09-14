@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+tagline:
 ---
 
 Hi! I'm Maddie, an astrophysics PhD student at the University of Melbourne, Australia. I study the host galaxies of supermassive black holes in the early Universe using computer simulations and space telescopes.
@@ -16,4 +17,7 @@ More information:
 - [Conference talk slides]({{ '/talks.html' | absolute_url }})
 
 
-<iframe width='800' height='500' src='../../me.png' frameborder='0' scrolling='no' allowfullscreen align="right"></iframe>
+
+<div class="resp-container">
+    <iframe class="resp-iframe" src='../../me.png?resolution=40x80' scrolling='no' frameborder='0' allowfullscreen></iframe>
+</div>
