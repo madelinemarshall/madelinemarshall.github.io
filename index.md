@@ -16,4 +16,4 @@ More information:
 - [Conference talk slides]({{ '/talks.html' | absolute_url }})
 
 
-<iframe width='800' height='500' src='../../me.png' frameborder='0' scrolling='no' align="right"></iframe>
+<iframe width='800' height='500' src='../../me.png' frameborder='0' scrolling='no' allowfullscreen align="right"></iframe>
