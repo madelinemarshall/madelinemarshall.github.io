@@ -7,7 +7,7 @@ ref: CV
 order: 0
 ---
 
-<iframe src='/CV_public.pdf' frameborder='0' allowfullscreen webkit-overflow-scrolling=touch></iframe>
-
+<iframe width='100%' height='1200' src='/CV_public.pdf' frameborder='0' allowfullscreen></iframe>
+<a href="/CV_public.pdf">Mobile version</a>
 
 [Back to home page]({{ '/' | absolute_url }})
