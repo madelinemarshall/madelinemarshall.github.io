@@ -15,6 +15,6 @@ More information:
 - [CV]({{ '/cv.html' | absolute_url }})  
 - [List of publications]({{ '/publications.html' | absolute_url }})  
 - [Conference talk slides]({{ '/talks.html' | absolute_url }})
-<div class="resp-container">
-<img src='../../me.png' style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
-</div>
+
+
+<img src='../../me.png' border="0" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
