@@ -7,7 +7,7 @@ ref: CV
 order: 0
 ---
 
-<iframe width='800' height='1200' src='/CV_public.pdf' frameborder='0' allowfullscreen></iframe>
+<iframe src='/CV_public.pdf' frameborder='0' allowfullscreen webkit-overflow-scrolling=touch></iframe>
 
 
 [Back to home page]({{ '/' | absolute_url }})
