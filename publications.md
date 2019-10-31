@@ -5,6 +5,23 @@ tagline: Details and abstracts of authored manuscripts
 ref: publications
 order: 1
 ---
+**Marshall, M. A.**, Mutch, S. J., Qin, Y., Poole, G. B., and Wyithe, J. S. B.: 2019, *"Dark-ages reionization and galaxy formation simulation - XVIII. The
+ high-redshift evolution of black holes and their host galaxies."*  [arXiv:1910.08124](https://arxiv.org/abs/1910.08124)
+> <span style="font-size:0.7em;"> Correlations between black holes and their host galaxies provide insight into
+what drives black hole-host co-evolution. We use the Meraxes semi-analytic
+model to investigate the growth of black holes and their host galaxies from
+high redshift to the present day. Our modelling finds no significant evolution
+in the black hole-bulge and black hole-total stellar mass relations out to a
+redshift of 8. The black hole-total stellar mass relation has similar but
+slightly larger scatter than the black hole-bulge relation, with the scatter in
+both decreasing with increasing redshift. In our modelling the growth of
+galaxies, bulges and black holes are all tightly related, even at the highest
+redshifts. We find that black hole growth is dominated by instability-driven or
+secular quasar-mode growth and not by merger-driven growth at all redshifts.
+Our model also predicts that disc-dominated galaxies lie on the black
+hole-total stellar mass relation, but lie offset from the black hole-bulge mass
+relation, in agreement with recent observations and hydrodynamical simulations.  </span>
+
 
 **Marshall, M. A.**, Mutch, S. J., Qin, Y., Poole, G. B., and Wyithe, J. S. B.: 2019, *"Dark-ages Reionization and Galaxy Formation Simulation – XVII. Sizes, angular momenta and morphologies of high redshift galaxies."*  MNRAS 488, 1941.
 [10.1093/mnras/stz1810](https://doi.org/10.1093/mnras/stz1810), [arXiv:1904.01619](https://arxiv.org/abs/1904.01619)
