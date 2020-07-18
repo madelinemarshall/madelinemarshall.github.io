@@ -6,6 +6,10 @@ ref: talks
 order: 2
 ---
 
+[Summer All Zoom Epoch Of Reionization Astronomy Conference (SAZERAC)](http://sazerac-conference.org/index.html)  
+*Limits to Rest-Frame UV Emission From FIR-Luminous z~6 Quasar Hosts*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZOyZl86-UM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ['Barefoot Reionization': Exploring the first billion years of the Universe](https://barefooteor.wordpress.com/)  
 Fitzroy Island, Australia  
 *The Host Galaxies of High Redshift Quasars:* [PDF]({{ site.url }}/Barefoot_MeraxesBlueTides.pdf)

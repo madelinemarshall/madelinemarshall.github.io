@@ -9,22 +9,9 @@ order: 1
 2019, *"The host galaxies of z=7 quasars: predictions from the BlueTides simulation."* [arXiv:1912.03428](https://arxiv.org/abs/1912.03428)
 > <span style="font-size:0.7em;"> We examine the properties of the host galaxies of z=7 quasars using the large volume, cosmological hydrodynamical simulation BlueTides. We find that the most massive black holes and quasars are hosted by massive galaxies with stellar masses log(M∗/M⊙)=10.8±0.2, and 10.2±0.4, which have a wide range of star formation rates, of 50<sup>+119</sup><sub>−35</sub>M⊙/yr and 19<sup>+28</sup><sub>−12</sub>M⊙/yr, respectively. The hosts of the most massive black holes and quasars in BlueTides are generally bulge-dominated, with bulge-to-total mass ratio B/T≃0.85±0.1, however their morphologies are not biased relative to the overall z=7 galaxy sample. We find that the hosts of the most massive black holes and quasars are significantly more compact, with half-mass radii R<sub>0.5</sub>=0.29<sup>+0.15</sup><sub>−0.10</sub> kpc and 0.28<sup>+0.08</sup><sub>−0.06</sub> kpc respectively, relative to galaxies with similar masses, which have R0.5=0.5<sup>+0.3</sup><sub>−0.2</sub> kpc. We make mock James Webb Space Telescope (JWST) images of these quasars and their host galaxies. We find that distinguishing the host from the quasar emission will be possible but still challenging with JWST, due to the small sizes of quasar hosts. We find that currently observable quasar samples are biased tracers of the intrinsic black hole--stellar mass relations, following a relation that is 0.27 dex higher than that of the full galaxy sample. Finally, we find that black hole hosts are generally quite isolated. However, the most massive black holes are more likely to be found in denser environments than the typical M<sub>BH</sub>>10<sup>6.5</sup>M⊙ black hole, indicating that minor mergers at least play some role in growing black holes in the early Universe. </span>
 
-**Marshall, M. A.**, Mutch, S. J., Qin, Y., Poole, G. B., and Wyithe, J. S. B.: 2019, *"Dark-ages reionization and galaxy formation simulation - XVIII. The
- high-redshift evolution of black holes and their host galaxies."*  [arXiv:1910.08124](https://arxiv.org/abs/1910.08124)
-> <span style="font-size:0.7em;"> Correlations between black holes and their host galaxies provide insight into
-what drives black hole-host co-evolution. We use the Meraxes semi-analytic
-model to investigate the growth of black holes and their host galaxies from
-high redshift to the present day. Our modelling finds no significant evolution
-in the black hole-bulge and black hole-total stellar mass relations out to a
-redshift of 8. The black hole-total stellar mass relation has similar but
-slightly larger scatter than the black hole-bulge relation, with the scatter in
-both decreasing with increasing redshift. In our modelling the growth of
-galaxies, bulges and black holes are all tightly related, even at the highest
-redshifts. We find that black hole growth is dominated by instability-driven or
-secular quasar-mode growth and not by merger-driven growth at all redshifts.
-Our model also predicts that disc-dominated galaxies lie on the black
-hole-total stellar mass relation, but lie offset from the black hole-bulge mass
-relation, in agreement with recent observations and hydrodynamical simulations.  </span>
+**Marshall, M. A.**, Mutch, S. J., Qin, Y., Poole, G. B., and Wyithe, J. S. B.: 2020, *"Dark-ages reionization and galaxy formation simulation - XVIII. The
+ high-redshift evolution of black holes and their host galaxies."*  MNRAS 494, 2747. [10.1093/mnras/staa936](https://doi.org/10.1093/mnras/staa936), [arXiv:1910.08124](https://arxiv.org/abs/1910.08124)
+> <span style="font-size:0.7em;"> Correlations between black holes and their host galaxies provide insight into what drives black hole-host co-evolution. We use the Meraxes semi-analytic model to investigate the growth of black holes and their host galaxies from high redshift to the present day. Our modelling finds no significant evolution in the black hole-bulge and black hole-total stellar mass relations out to a redshift of 8. The black hole-total stellar mass relation has similar but slightly larger scatter than the black hole-bulge relation, with the scatter in both decreasing with increasing redshift. In our modelling, the growth of galaxies, bulges, and black holes are all tightly related, even at the highest redshifts. We find that black hole growth is dominated by instability-driven or secular quasar-mode growth and not by merger-driven growth at all redshifts. Our model also predicts that disc-dominated galaxies lie on the black hole-total stellar mass relation, but lie offset from the black hole-bulge mass relation, in agreement with recent observations and hydrodynamical simulations.  </span>
 
 
 **Marshall, M. A.**, Mutch, S. J., Qin, Y., Poole, G. B., and Wyithe, J. S. B.: 2019, *"Dark-ages Reionization and Galaxy Formation Simulation – XVII. Sizes, angular momenta and morphologies of high redshift galaxies."*  MNRAS 488, 1941.
