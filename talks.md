@@ -11,7 +11,7 @@ order: 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nZOyZl86-UM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [ASTRO3D Science Meeting 2020](https://astro3d.org.au/)  
-*The host galaxies of ￼z=7 quasars: predictions from the BlueTides simulation*
+*The host galaxies of z=7 quasars: predictions from the BlueTides simulation*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cc78jsRWfiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
