@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Talks
-tagline: Slides from a selection of talks given at international conferences
+tagline: Slides/recordings from a selection of conference talks
 ref: talks
 order: 2
 ---
+
 
 [Summer All Zoom Epoch Of Reionization Astronomy Conference (SAZERAC)](http://sazerac-conference.org/index.html)  
 *Limits to Rest-Frame UV Emission From FIR-Luminous z~6 Quasar Hosts*
@@ -18,7 +19,6 @@ order: 2
 ['Barefoot Reionization': Exploring the first billion years of the Universe](https://barefooteor.wordpress.com/)  
 Fitzroy Island, Australia  
 *The Host Galaxies of High Redshift Quasars:* [PDF]({{ site.url }}/Barefoot_MeraxesBlueTides.pdf)
-
 
 
 [Are AGN Special?](http://astro.dur.ac.uk/Are_AGN_Special/index2.php)  
