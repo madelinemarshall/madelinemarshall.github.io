@@ -17,8 +17,8 @@ My work was recently featured by a NASA/STSci press release, which you can read 
 For more information, see:
 - [CV]({{ '/cv.html' | absolute_url }})  
 - [List of publications]({{ '/publications.html' | absolute_url }})  
-- [Conference talk slides]({{ '/talks.html' | absolute_url }})
-- [Media and outreach]({{ '/outreach.html' | absolute_url }}) 
+- [Media and outreach]({{ '/outreach.html' | absolute_url }})
+- [Conference talks]({{ '/talks.html' | absolute_url }})
 
 Contact me at madeline_marshall (at) outlook (dot) com!
 
