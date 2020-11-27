@@ -18,7 +18,8 @@ For more information, see:
 - [CV]({{ '/cv.html' | absolute_url }})  
 - [List of publications]({{ '/publications.html' | absolute_url }})  
 - [Conference talk slides]({{ '/talks.html' | absolute_url }})
-- [Media and outreach]({{ '/outreach.html' | absolute_url }})
-Or contact me!
+- [Media and outreach]({{ '/outreach.html' | absolute_url }}) 
+
+Contact me at madeline_marshall (at) outlook (dot) com!
 
 <img src='../../me.png' border="0" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
