@@ -22,4 +22,4 @@ For more information, see:
 
 Contact me at madeline_marshall (at) outlook (dot) com!
 
-<img src='../../HeadShot.jpg' border="0" width="50" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
+<img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
