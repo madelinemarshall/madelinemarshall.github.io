@@ -49,18 +49,18 @@ tagline:
 
 <div class="row">
   <div class="column left">
-    Hi! I'm Maddie, an astrophysicist from Tasmania, Australia. I study the host galaxies of supermassive black holes in the early Universe using computer simulations and space telescopes.
-    I have just completed my PhD at the University of Melbourne, and am beginning a new position as the Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics.<br>
+    <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
+    Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria BC. <br>
+    Studies the host galaxies of supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
     <br>
-    My work was recently featured by a NASA/STSci press release, which you can read <a href="https://www.nasa.gov/feature/goddard/2020/simulations-show-webb-telescope-can-reveal-distant-galaxies-hidden-in-quasars-glare/">here</a>!<br>
-    <br>
+
     For more information, see:<br>
     - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
     - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
     - <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
-    - <a href="{{ '/talks.html' | absolute_url }}">Conference talks</a><br>
+    - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
     <br>
-    Contact me at madeline_marshall (at) outlook (dot) com!
+    Contact: madeline_marshall (at) outlook (dot) com
   </div>
   <div class="column right">
     <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
