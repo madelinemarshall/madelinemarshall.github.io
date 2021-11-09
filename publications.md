@@ -10,10 +10,12 @@ For an up-to-date list of publications and citation counts/metrics, see the [ADS
 <br>
 <br>
 
+**Marshall, M. A.**, Wilkins, S., Di Matteo, T., Roper, W. J., Vijayan, A. P., Ni, Y., Feng, Y., and Croft, R. A. C.: 2021, *The Impact of Dust on the Sizes of Galaxies in the Epoch of Reionization* Submitted to MNRAS [arXiv:2110.12075](https://arxiv.org/abs/2110.12075)
+
 **Marshall, M. A.**, Wyithe, J. S. B., Windhorst, R. A., Di Matteo, T., Ni, Y., Wilkins, S., Croft, R. A. C., and Mechtley, M.: 2021, *"Observing the host galaxies of high-redshift quasars with JWST: predictions from the BlueTides simulation"* MNRAS 506, 1, 1209 [DOI: 10.1093/mnras/stab1763](https://doi.org/10.1093/mnras/stab1763) [arXiv:2101.01219](https://arxiv.org/abs/2101.01219)
 
 
-Ren, K., Trenti, M., **Marshall, M.~A.**, Di Matteo, T. and Ni, Y.: 2021, *"The Diversity of Environments Around Luminous Quasars at Redshift  z~6."* Accepted for publication to ApJ, [arXiv: 2106.07027](https://arxiv.org/abs/2106.07027)
+Ren, K., Trenti, M., **Marshall, M.~A.**, Di Matteo, T. and Ni, Y.: 2021, *"The Diversity of Environments Around Luminous Quasars at Redshift  z~6."* ApJ,  917, 2, 89 [DOI:10.3847/1538-4357/ac0ae2](https://doi.org/10.3847/1538-4357/ac0ae2) [arXiv: 2106.07027](https://arxiv.org/abs/2106.07027)
 
 
 **Marshall, M. A.**: 2020, *"The host galaxies of high-redshift quasars"* PhD Thesis. [University of Melbourne Library](http://hdl.handle.net/11343/245491)
