@@ -50,8 +50,10 @@ tagline:
 <div class="row">
   <div class="column left">
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
-    Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria BC. <br>
-    Studies the host galaxies of supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
+    Tasmanian astrophysicist. <br>
+    Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br>
+    Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
+    Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br>
     <br>
 
     For more information, see:<br>
