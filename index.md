@@ -63,6 +63,12 @@ tagline:
     - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
     <br>
     Contact: madeline_marshall (at) outlook (dot) com
+    <br>
+    For a great article about Canada's involvement with JWST including a few quotes from me, read ['What the Webb hopes to catch' from The Globe and Mail](%https://www.theglobeandmail.com/canada/article-james-webb-space-telescope-set-to-reveal-universes-outer-limits-to-a/)
+    <br>
+    To see how we at the National Research Council are involved with JWST, check out ['A look into the NRC faces behind the James Webb Space Telescope'](https://nrc.canada.ca/en/stories/look-nrc-faces-behind-james-webb-space-telescope)
+    <br>
+
   </div>
   <div class="column right">
     <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
