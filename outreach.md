@@ -17,10 +17,11 @@ A radio interview with Anneliese Farrer from SYN Melbourne, from November 2020
 
 **Videos:**<br>
 
-[Friends of the Dominion Astrophysical Observatory](https://centreoftheuniverse.org/events/2021/12/18/webb-inar-the-jwst-star-party-part-2#)  
-*JWST Star Party public outreach event*<br>
-Watch me give an overview of JWST science, and the mysteries of supermassive black holes in the infant Universe.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkiDJ1z6WkQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Friends of the Dominion Astrophysical Observatory JWST Star Party public outreach event](https://centreoftheuniverse.org/events/2021/12/18/webb-inar-the-jwst-star-party-part-2#)  
+Watch me give an overview of JWST science, and the mysteries of supermassive black holes in the infant Universe [here on YouTube.](https://www.youtube.com/watch?v=QkiDJ1z6WkQ&ab_channel=FriendsoftheDAO)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkiDJ1z6WkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [ASTRO3D Astro In The Home YouTube Series](https://astro3d.org.au/education-and-outreach/astro-in-the-home/)  
 *Making Galaxy Cupcakes*<br>
