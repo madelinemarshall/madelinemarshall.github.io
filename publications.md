@@ -6,7 +6,7 @@ ref: publications
 order: 1
 ---
 
-For an up-to-date list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=date+desc) or [Google Scholar](https://scholar.google.com/citations?user=_BszYIoAAAAJ&hl=en&authuser=1&oi=sra).
+For an up-to-date list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=date+desc) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
 <br>
 <br>
 
