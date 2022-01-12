@@ -64,9 +64,9 @@ tagline:
     <br>
     Contact: madeline_marshall (at) outlook (dot) com
     <br>
-    For a great article about Canada's involvement with JWST including a few quotes from me, read ['What the Webb hopes to catch' from The Globe and Mail](%https://www.theglobeandmail.com/canada/article-james-webb-space-telescope-set-to-reveal-universes-outer-limits-to-a/)
-    <br>
-    To see how we at the National Research Council are involved with JWST, check out ['A look into the NRC faces behind the James Webb Space Telescope'](https://nrc.canada.ca/en/stories/look-nrc-faces-behind-james-webb-space-telescope)
+    For a great article about Canada's involvement with JWST including a few quotes from me, read <a href="%https://www.theglobeandmail.com/canada/article-james-webb-space-telescope-set-to-reveal-universes-outer-limits-to-a/">'What the Webb hopes to catch' from The Globe and Mail</a><br>
+
+    To see how we at the National Research Council are involved with JWST, check out <a href="https://nrc.canada.ca/en/stories/look-nrc-faces-behind-james-webb-space-telescope">'A look into the NRC faces behind the James Webb Space Telescope'</a><br>
     <br>
 
   </div>
