@@ -23,11 +23,11 @@ tagline:
   padding: 10px;
 }
 .left {
-  width: 60%;
+  width: 65%;
 }
 
 .right {
-  width: 40%;
+  width: 35%;
 }
 
 /* Clear floats after the columns */
@@ -68,7 +68,7 @@ tagline:
 
   </div>
   <div class="column right">
-    <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
+    <p><img src='../../HeadShot.jpg' border="0" width="250" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
 
     <br>
 
