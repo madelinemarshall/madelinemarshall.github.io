@@ -7,7 +7,7 @@ order: 2
 ---
 [Quasars and Galaxies Through Cosmic Time](https://www.astro.udp.cl/Quasars_and_Galaxies_through_Cosmic_Time/index.html)
 *Detecting High-z Quasar Hosts with JWST*, January 2022
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WN0enr3AdXU?start=4215s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WN0enr3AdXU?start=4215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [SAZERAC 2.0](http://sazerac-conference.org/index.html)
 *Unveiling Stellar Light from the Host Galaxies of High-Redshift Quasars*,  June 2021

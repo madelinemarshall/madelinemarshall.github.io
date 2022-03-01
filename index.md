@@ -51,19 +51,13 @@ tagline:
   <div class="column left">
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
     <font size="3">
+    <br>
     Tasmanian astrophysicist. <br>
     Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br>
     Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
     Leading a James Webb Space Telescope (JWST) program to study the host galaxies of the first quasars,
     and involved with several other exciting JWST projects studying the early Universe. <br>
     Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br>
-    <br>
-
-    For more information, see:<br>
-    - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
-    - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
-    - <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
-    - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
 
     <br>
     I recently did an interview about the excitement of JWST and my involvement, which can be found <a href="https://www.theadvocate.com.au/story/7546611/former-coaster-involved-in-space-telescope-launch/?cs=2606">here</a>.
@@ -77,6 +71,14 @@ tagline:
   </div>
   <div class="column right">
     <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
+
+    <br>
+
+    For more information, see:<br>
+    - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
+    - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
+    - <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
+    - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
 </p>
   </div>
 </div>
