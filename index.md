@@ -50,6 +50,7 @@ tagline:
 <div class="row">
   <div class="column left">
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
+    <font size="3">
     Tasmanian astrophysicist. <br>
     Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br>
     Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
@@ -63,12 +64,15 @@ tagline:
     - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
     - <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
     - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
-    <br>
-    Contact: madeline_marshall (at) outlook (dot) com<br>
-    <br>
+
 
     I recently did an interview about the excitement of JWST and my involvement, which can be found <a href="https://www.theadvocate.com.au/story/7546611/former-coaster-involved-in-space-telescope-launch/?cs=2606">here</a>.
     For a great article about Canada's involvement with JWST including a few quotes from me and some fantastic images, take a look at <a href="https://www.theglobeandmail.com/canada/article-james-webb-space-telescope-set-to-reveal-universes-outer-limits-to-a/">'What the Webb hopes to catch' from The Globe and Mail</a>, and to see how we at the National Research Council are involved with JWST, check out <a href="https://nrc.canada.ca/en/stories/look-nrc-faces-behind-james-webb-space-telescope">'A look into the NRC faces behind the James Webb Space Telescope.'</a><br>
+    <br>
+    </font>
+
+    <br>
+    Contact: madeline_marshall (at) outlook (dot) com<br>
     <br>
 
   </div>
