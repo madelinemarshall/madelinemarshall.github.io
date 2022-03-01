@@ -6,6 +6,7 @@ ref: publications
 order: 1
 ---
 
+<font size="3">
 For an up-to-date list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=date+desc) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
 <br>
 <br>
@@ -36,5 +37,6 @@ Ren, K., Trenti, M., **Marshall, M.~A.**, Di Matteo, T. and Ni, Y.: 2021, *"The 
 **Marshall, M. A.**, Ellingsen, S. P., Lovell, J. E. J., Dickey, J. M., Voronkov, M. A., Breen, S. L.: 2017, *"`Methanol absorption in PKS B1830-211 at milliarcsecond scales."* MNRAS {466}, 2450.
 [DOI: 10.1093/mnras/stw3295](https://doi.org/10.1093/mnras/stw3295).
 
+</font>
 
 [Back to home page]({{ '/' | absolute_url }})

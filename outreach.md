@@ -5,7 +5,7 @@ tagline:
 ref: media
 order: 2
 ---
-
+<font size="3">
 My work was featured by a NASA/STSci press release, which you can read [here](https://www.nasa.gov/feature/goddard/2020/simulations-show-webb-telescope-can-reveal-distant-galaxies-hidden-in-quasars-glare/)!
 
 **Radio Interviews:** <br>
@@ -25,5 +25,7 @@ Watch me give an overview of JWST science, and the mysteries of supermassive bla
 *Making Galaxy Cupcakes*<br>
 Learn all about galaxies and their supermassive black holes while making galaxy cupcakes with me.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwCbAT2DoTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</font>
 
 [Back to home page]({{ '/' | absolute_url }})
