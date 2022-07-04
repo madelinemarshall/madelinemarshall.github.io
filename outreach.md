@@ -8,7 +8,10 @@ order: 2
 
 My work was featured by a NASA/STSci press release, which you can read [here](https://www.nasa.gov/feature/goddard/2020/simulations-show-webb-telescope-can-reveal-distant-galaxies-hidden-in-quasars-glare/)!
 
-**Radio Interviews:** <br>
+**Audio Interviews:** <br>
+[James Webb Space Telescope: Round 2 (ft. Maddie Marshall \& Benji Metha)](https://curiosityrat.podbean.com/e/james-webb-space-telescope-round-2-ft-maddie-marshall-benji-metha)
+An update on JWST from launch to commissioning, as well as the science it can do, on science podcast Curiosity Killed the Rat, from June 2022
+
 [Einstein-A-Go-Go - The James Webb Telescope and my PhD work](https://www.rrr.org.au/shared/podcast-episode/4740/2311000)  
 A radio interview with Dr Shane Huntington on RRR Melbourne, from November 2020
 
