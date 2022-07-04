@@ -60,9 +60,9 @@ tagline:
 
     <br>
     Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.<br>
-    For a full update on JWST and the science it can do, check out my interview on the science podcast
-    <a href="https://curiosityrat.podbean.com/e/james-webb-space-telescope-round-2-ft-maddie-marshall-benji-metha/">Curiosity Killed the Rat, James Webb Space Telescope: Round 2 (ft. Maddie Marshall & Benji Metha)</a> (or wherever you listen to podcasts). <br>
-    For more articles, see <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
+    For a full update on JWST and the science it can do, check out my interview on the science podcast Curiosity Killed the Rat,
+    <a href="https://curiosityrat.podbean.com/e/james-webb-space-telescope-round-2-ft-maddie-marshall-benji-metha/">James Webb Space Telescope: Round 2 (ft. Maddie Marshall & Benji Metha)</a> (or wherever you listen to podcasts). <br>
+    For more articles, see <a href="{{ '/outreach.html' | absolute_url }}">Public Outreach.</a><br>
     <br>
 
     Contact me: madeline_marshall (at) outlook (dot) com<br>
