@@ -10,9 +10,9 @@ For an up-to-date list of publications and citation counts/metrics, see the [ADS
 <br>
 <br>
 
-**Marshall, M.~A.**, Watts, K, Wilkins, S., Di Matteo, T., Kuusisto, J.~K., Roper, W.~J., Vijayan, A.~P., Ni, Y., Feng, Y., and Croft, R.~A.~C.,: 2022, *"The BlueTides Mock Image Catalogue: Simulated observations of high-redshift galaxies and predictions for JWST imaging surveys"*" Submitted to MNRAS, [https://arxiv.org/abs/2206.08941](arxiv: 2206.08941)
+**Marshall, M.~A.**, Watts, K, Wilkins, S., Di Matteo, T., Kuusisto, J.~K., Roper, W.~J., Vijayan, A.~P., Ni, Y., Feng, Y., and Croft, R.~A.~C.,: 2022, *"The BlueTides Mock Image Catalogue: Simulated observations of high-redshift galaxies and predictions for JWST imaging surveys"*" Submitted to MNRAS, [arxiv: 2206.08941](https://arxiv.org/abs/2206.08941)
 
-Roper, W.~J., Lovell, C.~C., Vijayan, A.~P., **Marshall, M.~A.**, Irodotou, D., Kuusisto, J.~K., Thomas, P.~A., Wilkins, S.: 2022, *"First Light And Reionisation Epoch Simulations (FLARES) – IV. The size evolution of galaxies at z>5"* MNRAS 514, 2, 1921, [https://doi.org/10.1093/mnras/stac1368](DOI: 10.1093/mnras/stac1368)
+Roper, W.~J., Lovell, C.~C., Vijayan, A.~P., **Marshall, M.~A.**, Irodotou, D., Kuusisto, J.~K., Thomas, P.~A., Wilkins, S.: 2022, *"First Light And Reionisation Epoch Simulations (FLARES) – IV. The size evolution of galaxies at z>5"* MNRAS 514, 2, 1921, [DOI: 10.1093/mnras/stac1368](https://doi.org/10.1093/mnras/stac1368)
 
 **Marshall, M. A.**, Wilkins, S., Di Matteo, T., Roper, W. J., Vijayan, A. P., Ni, Y., Feng, Y., and Croft, R. A. C.: 2021, *"The Impact of Dust on the Sizes of Galaxies in the Epoch of Reionization"* MNRAS 511, 4,  5475, [DOI: 10.1093/mnras/stac380](https://doi.org/10.1093/mnras/stac380) [arXiv:2110.12075](https://arxiv.org/abs/2110.12075)
 

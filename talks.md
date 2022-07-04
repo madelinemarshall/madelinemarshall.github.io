@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: Scientific Talks
 tagline: Recordings from a selection of conference talks
 ref: talks
 order: 2
