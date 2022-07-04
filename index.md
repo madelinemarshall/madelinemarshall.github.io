@@ -59,9 +59,10 @@ tagline:
     Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br>
 
     <br>
-    Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
+    Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.<br>
     For a full update on JWST and the science it can do, check out my interview on the science podcast
-    <a href="https://curiosityrat.podbean.com/e/james-webb-space-telescope-round-2-ft-maddie-marshall-benji-metha/">Curiosity Killed the Rat, James Webb Space Telescope: Round 2 (ft. Maddie Marshall \& Benji Metha)</a> (or wherever you listen to podcasts). For more articles, see <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
+    <a href="https://curiosityrat.podbean.com/e/james-webb-space-telescope-round-2-ft-maddie-marshall-benji-metha/">Curiosity Killed the Rat, James Webb Space Telescope: Round 2 (ft. Maddie Marshall & Benji Metha)</a> (or wherever you listen to podcasts). <br>
+    For more articles, see <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
     <br>
 
     Contact me: madeline_marshall (at) outlook (dot) com<br>
@@ -76,7 +77,7 @@ tagline:
     For more information, see:<br>
     - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
     - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
-    - <a href="{{ '/outreach.html' | absolute_url }}">Media and outreach</a><br>
+    - <a href="{{ '/outreach.html' | absolute_url }}">Media links and science for the public</a><br>
     - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
 </p>
   </div>
