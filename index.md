@@ -75,6 +75,7 @@ tagline:
 
     <b>Contact me:</b> madeline_marshall (at) outlook (dot) com<br>
     <br>
+    <b>NRC staff profile:<\b> <a href="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/madeline-marshall">NRC Directory of Science Professionals</a><br>
 
   </div>
   <div class="column right">
