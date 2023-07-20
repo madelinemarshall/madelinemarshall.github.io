@@ -66,20 +66,22 @@ tagline:
     For more articles, audio, and videos, see <a href="{{ '/outreach.html' | absolute_url }}">Public Outreach.</a><br>
     <br>
 
-    For more information, see:<br>
-    - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
-    - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
-    - <a href="{{ '/outreach.html' | absolute_url }}">Media links and science for the public</a><br>
-    - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
-    <br>
+    Contact me: madeline_marshall (at) outlook (dot) com<br>
+        <br>
 
-    <b>Contact me:</b> madeline_marshall (at) outlook (dot) com<br>
-    <br>
+      </div>
+      <div class="column right">
+        <p><img src='../../HeadShot.jpg' border="0" width="250" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
 
-  </div>
+        <br>
 
-  <div class="column right">
-    <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
+        For more information, see:<br>
+        - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
+        - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
+        - <a href="{{ '/outreach.html' | absolute_url }}">Media links and science for the public</a><br>
+        - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
     </p>
       </div>
     </div>
+
+    </body>
