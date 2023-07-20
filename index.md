@@ -76,12 +76,12 @@ tagline:
     <b>Contact me:</b> madeline_marshall (at) outlook (dot) com<br>
     <br>
     <b>NRC staff profile: <a href="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/madeline-marshall">NRC Directory of Science Professionals</a><br>
+    </div>
 
-  </div>
-  
   <div class="column right">
     <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
-
+    </p>
     <br>
   </div>
-</p>
+
+</div>
