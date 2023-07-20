@@ -75,7 +75,7 @@ tagline:
 
     <b>Contact me:</b> madeline_marshall (at) outlook (dot) com<br>
     <br>
-    <b>NRC staff profile:<\b> <a href="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/madeline-marshall">NRC Directory of Science Professionals</a><br>
+    <b>NRC staff profile: <a href="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/madeline-marshall">NRC Directory of Science Professionals</a><br>
 
   </div>
   <div class="column right">
@@ -83,11 +83,4 @@ tagline:
 
     <br>
 
-
-
-    <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/AstroMad?ref_src=twsrc%5Etfw">Tweets by AstroMad</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-  </div>
-</div>
-
-</body>
