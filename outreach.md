@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Public Outreach
-tagline: Media links and science for the public
+title: Science for the Public
+tagline: Media links to interviews, articles and public talks
 ref: media
 order: 2
 ---
 
 **Print Interviews:** <br>
 
+<br>
 
 Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
+
+I explained my work with JWST, as well as chatting about the first JWST science images, on the science podcast Spaghettification, that you can listen to <a href="https://open.spotify.com/episode/47AxjutjJLLFTrJ61AmMBX?si=3e0617e3a8604567">here</a>.
+For a full update on JWST and the science it can do, check out my interview on the science podcast Curiosity Killed the Rat,
+<a href="https://open.spotify.com/episode/5Ose43slYAtAeFlWiEW4Iy?si=6fd12bd6343d464a">James Webb Space Telescope: Round 2 (ft. Maddie Marshall & Benji Metha)</a> (or wherever you listen to podcasts).
+
 I recently did an interview about the excitement of JWST and my involvement, which can be found <a href="https://www.theadvocate.com.au/story/7546611/former-coaster-involved-in-space-telescope-launch/?cs=2606">here</a>, as well as an interview about the first JWST images <a href="https://www.theadvocate.com.au/story/7822459/telescope-performing-better-than-predicted/">here (paywalled)</a>.
 For a great article about Canada's involvement with JWST including a few quotes from me and some fantastic images, take a look at <a href="https://www.theglobeandmail.com/canada/article-james-webb-space-telescope-set-to-reveal-universes-outer-limits-to-a/">'What the Webb hopes to catch' from The Globe and Mail</a>, and to see how we at the National Research Council are involved with JWST, check out <a href="https://nrc.canada.ca/en/stories/look-nrc-faces-behind-james-webb-space-telescope">'A look into the NRC faces behind the James Webb Space Telescope.'</a><br>
 

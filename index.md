@@ -51,20 +51,13 @@ tagline:
   <div class="column left">
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
     <br>
-    Tasmanian astrophysicist. <br>
-    Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br>
-    Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br>
+    Tasmanian astrophysicist. <br><br>
+    Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br><br>
+    Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br><br>
     Leading a James Webb Space Telescope (JWST) program to study the host galaxies of the first quasars,
-    and involved with several other exciting JWST projects studying the early Universe. <br>
-    Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br>
+    and involved with several other exciting JWST projects studying the early Universe. <br><br>
+    Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br><br>
 
-    <br>
-    Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
-    I explained my work with JWST, as well as chatting about the first JWST science images, on the science podcast Spaghettification, that you can listen to <a href="https://open.spotify.com/episode/47AxjutjJLLFTrJ61AmMBX?si=3e0617e3a8604567">here</a>.
-    For a full update on JWST and the science it can do, check out my interview on the science podcast Curiosity Killed the Rat,
-    <a href="https://open.spotify.com/episode/5Ose43slYAtAeFlWiEW4Iy?si=6fd12bd6343d464a">James Webb Space Telescope: Round 2 (ft. Maddie Marshall & Benji Metha)</a> (or wherever you listen to podcasts).
-    For more articles, audio, and videos, see <a href="{{ '/outreach.html' | absolute_url }}">Public Outreach.</a><br>
-    <br>
 
     Contact me: madeline_marshall (at) outlook (dot) com<br>
         <br>
