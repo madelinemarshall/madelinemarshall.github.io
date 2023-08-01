@@ -53,9 +53,13 @@ tagline:
     <br>
     Tasmanian astrophysicist. <br><br>
     Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br><br>
-    Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes.<br><br>
+
+    Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes. <br>
+    Key research topics: high-z quasar host galaxies, creating mock observations for telescope predictions and comparisons, quasar--host decomposition, black hole and galaxy scaling relations, high-z quasars, HST & JWST imaging, JWST IFU spectroscopy, hydrodynamical simulations, semi-analytic models  <br><br>
+    
     Leading a James Webb Space Telescope (JWST) program to study the host galaxies of the first quasars,
-    and involved with several other exciting JWST projects studying the early Universe. <br><br>
+    and involved with several other exciting JWST projects studying the early Universe including <a href="https://sites.google.com/view/jwstpearls">PEARLS</a> and GA-NIFS. <br><br>
+
     Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br><br>
 
 
