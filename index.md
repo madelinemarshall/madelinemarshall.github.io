@@ -52,7 +52,7 @@ tagline:
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
     <br>
     Tasmanian astrophysicist. <br><br>
-    Currently a Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br><br>
+    Currently an Oppenheimer Fellow at Los Alamos National Laboratory, in Los Alamos, New Mexico. <br><br>
 
     Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes. <br>
     Key research topics: high-z quasar host galaxies, creating mock observations for telescope predictions and comparisons, quasar-host decomposition, black hole and galaxy scaling relations, high-z quasars, HST & JWST imaging, JWST IFU spectroscopy, hydrodynamical simulations, and semi-analytic models.  <br><br>
@@ -61,7 +61,7 @@ tagline:
     and involved with several other exciting JWST projects studying the early Universe including <a href="https://sites.google.com/view/jwstpearls">PEARLS</a> and GA-NIFS. <br><br>
 
     Completed a PhD at the University of Melbourne and a BSc (Honours) at the University of Tasmania. <br><br>
-
+    Previous Plaskett Fellow at the National Research Council Canada, Herzberg Astronomy and Astrophysics Research Centre, in Victoria, British Columbia. <br><br>
 
     Contact me: madeline_marshall (at) outlook (dot) com<br>
         <br>
