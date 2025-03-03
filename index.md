@@ -73,8 +73,8 @@ tagline:
         <br>
 
         For more information, see:<br>
-        - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
-        - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
+        - <a href="{{ '/cv.html' | absolute_url }}">My CV</a><br>
+        - <a href="{{ '/publications.html' | absolute_url }}">Overview of my research</a><br>
         - <a href="{{ '/outreach.html' | absolute_url }}">Media links and science for the public</a><br>
         - <a href="{{ '/talks.html' | absolute_url }}">Recordings of conference talks</a><br>
     </p>
