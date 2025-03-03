@@ -5,6 +5,17 @@ tagline: An overview of the research projects I have lead
 ref: research
 order: 1
 ---
+
+  
+For a full list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
+<br>
+<br>
+
+## Observations of High-Redshift Quasars <br>
+
+**JWST's PEARLS: A z=6 Quasar in a Train-Wreck Galaxy Merger System**<br>
+[arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)<br>
+
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
@@ -34,18 +45,7 @@ order: 1
 </style>
 </head>
 <body>
-
-  
-For a full list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
-<br>
-<br>
-
-## Observations of High-Redshift Quasars <br>
-
-**JWST's PEARLS: A z=6 Quasar in a Train-Wreck Galaxy Merger System**<br>
-[arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)<br>
-
-<div class="row">
+  <div class="row">
   <div class="column left">
 As part of the PEARLS GTO program, we observed the z=5.89 quasar NDWFS J1425+3254 with JWST NIRSpec integral field spectroscopy (IFS). 
 We find that the quasar host has significant ongoing obscured star formation, as well as possibly one of the most extreme quasar-driven outflows in the early Universe. 
