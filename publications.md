@@ -23,7 +23,7 @@ We find that the quasar host has significant ongoing obscured star formation, as
 We find that two companion galaxies are merging with the quasar host, with a connecting bridge of gas between one companion and the quasar providing smoking-gun evidence for the ongoing interaction.
 The system is a "train-wreck" merger of three galaxies, with star formation and extreme quasar activity that were likely triggered by these ongoing interactions.
 
-<p style="text-align:center" style="align:center"> <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
+<p style="align:center"> <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
 <sub> [OIII] velocity map for the train-wreck merger system NDWFS J1425+3254. Credits: M.Marshall </sub> </p>
 
 
@@ -60,7 +60,7 @@ With my undergraduate student Katelyn Watts, we created mock images of each Blue
 From these mock images, we made predictions for the expected number counts of observed high-z galaxies from JWST Cycle 1 surveys, as published in **"The BlueTides Mock Image Catalogue: Simulated observations of high-redshift galaxies and predictions for JWST imaging surveys"**
 [DOI: 10.1093/mnras/stac211](https://doi.org/10.1093/mnras/stac2111) [arxiv: 2206.08941](https://arxiv.org/abs/2206.08941).
 
-<p style="text-align: center"  style="align:center"> <img src='../../BlueTidesMerger.png' border="0" width="800" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> <br>
+<p style="align:center"> <img src='../../BlueTidesMerger.png' border="0" width="800" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> <br>
   <sub>A merger of a quasar host galaxy in the BlueTides simulation. Credits: Y. Ni (Carnegie Mellon University) and L. Hustak (STScI)</sub>
 </p> 
 
