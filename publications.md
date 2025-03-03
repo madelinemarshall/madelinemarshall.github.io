@@ -24,7 +24,7 @@ The system is a "train-wreck" merger of three galaxies, with star formation and 
   </div>
       
   <div class="column right">
-        <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
+        <img src='../../NDWFS_Merger.png' border="0" width="350" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
   </div>
 </div>
 
