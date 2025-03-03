@@ -60,7 +60,7 @@ With my undergraduate student Katelyn Watts, we created mock images of each Blue
 From these mock images, we made predictions for the expected number counts of observed high-z galaxies from JWST Cycle 1 surveys, as published in **"The BlueTides Mock Image Catalogue: Simulated observations of high-redshift galaxies and predictions for JWST imaging surveys"**
 [DOI: 10.1093/mnras/stac211](https://doi.org/10.1093/mnras/stac2111) [arxiv: 2206.08941](https://arxiv.org/abs/2206.08941).
 
-<p style="text-align: center;"> <img src='../../BlueTidesMerger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> <br>
+<p style="text-align: center;"> <img src='../../BlueTidesMerger.png' border="0" width="800" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> <br>
   <sub>A merger of a quasar host galaxy in the BlueTides simulation. Credits: Y. Ni (Carnegie Mellon University) and L. Hustak (STScI)</sub>
 </p> 
 
@@ -85,7 +85,7 @@ For my honours project, I used the semi-analytic galaxy formation model SAGE to 
 
 **Methanol absorption in PKS B1830-211 at milliarcsecond scales**<br>
 [DOI: 10.1093/mnras/stw3295](https://doi.org/10.1093/mnras/stw3295) <br>
-As an undergraduate project, we published Australian Long Baseline Array observations of 12.2-GHz methanol absorption detected in the gravitational lens system PKS B1830−211.
+As an undergraduate project, I published Australian Long Baseline Array observations of 12.2-GHz methanol absorption detected in the gravitational lens system PKS B1830−211.
 
 
 [Back to home page]({{ '/' | absolute_url }})
