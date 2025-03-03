@@ -10,11 +10,14 @@ For a full list of publications and citation counts/metrics, see the [ADS](https
 <br>
 <br>
 
+**14. "JWST's PEARLS: A z=6 Quasar in a Train-Wreck Galaxy Merger System"**<br>
+Marshall, M. A., Windhorst, R. A., Ferrami, G., Willner, S. P., Polletta, M., Keel, W. C., Fazio, G. G., Cohen, S. H., Carleton, T., Jansen, R. A., Honor, R., Ortiz III, R., Summers, J., D'Silva, J. C. J., Koekemoer, A. M., Coe, D., Conselice, C. J., Diego, J. M., Driver, S. P., Frye, B., Grogin, N. A., Pirzkal, N., Robotham, A., Ryan, R. E., Willmer, C. N. A., Yan, H., Ricotti, M., Zitrin, A., Adams, N. J., Cheng, C., Wyithe, J. S. B., Lim, J., Perna, M., Übler, H., Willott, C. J., Jones, G., Scholtz, J., and Mechtley, M.: 2025, Submitted to A&A [arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)
+
 **13. "GA-NIFS & EIGER: A merging quasar host at z=7 with an overmassive black hole"**<br>
 Marshall, M. A., Yue M., Eilers, A.-C., Scholtz, J., Perna, M., Willott, C. J., Maiolino, R., Übler, H., Arribas, S., Bunker, A.J., Charlot, S., Rodríguez Del Pino, B., Böker, T., Carniani, S., Cresci, G., D’Eugenio, F., Jones, G. C., Venturi, G., Bordoloi, R., Kashino, D., Mackenzie, R., Matthee, J., Naidu, R., and Simcoe R.A.: 2024, Submitted to A&A [arxiv: 2402.17163](https://arxiv.org/abs/2402.17163)
 
 **12. "FORECASTOR -- II. Simulating Galaxy Surveys with the Cosmological Advanced Survey Telescope for Optical and UV Research"**<br>
-Marshall, M. A., Amen, L., Woods, T. E., Cote, P. J., Yung, L. Y. A., Amenouche, M., Pass, E. K., Balogh, M., Salim, S., Moutard, T.: 2024, Submitted to MNRAS [arxiv: 2402.17163](https://arxiv.org/abs/2402.17163)
+Marshall, M. A., Amen, L., Woods, T. E., Cote, P. J., Yung, L. Y. A., Amenouche, M., Pass, E. K., Balogh, M., Salim, S., Moutard, T.: 2025, MNRAS 537, 2, 1703 [DOI: 10.1093/mnras/staf065](https://doi.org/10.1093/mnras/staf065) [arxiv: 2402.17163](https://arxiv.org/abs/2402.17163)
 
 **11. "Black hole and host galaxy properties of two z ≃ 6.8 quasars from the NIRSpec IFU"**<br>
 Marshall, M. A., Perna, M., Willott, C. J., Maiolino, R., Scholtz, J., Übler, H., Carniani, S., Arribas, S., Lützgendorf, N., Bunker, A.J., Charlot, S., Ferruit, P., Jakobsen, P., Rodríguez Del Pino, B., Böker, T., Cameron, A. J., Cresci, G., Curtis-Lake, R., Jones, G.C., Kumari, N., and Pérez-González, P. G.: 2023, A&A 678, A191 [DOI: 10.1051/0004-6361/202346113](https://doi.org/10.1051/0004-6361/202346113) [arxiv: 2302.04795](https://arxiv.org/abs/2302.04795)
