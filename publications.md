@@ -5,7 +5,37 @@ tagline: An overview of the research projects I have lead
 ref: research
 order: 1
 ---
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+.left {
+  width: 62%;
+}
 
+.right {
+  width: 38%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+  
 For a full list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
 <br>
 <br>
