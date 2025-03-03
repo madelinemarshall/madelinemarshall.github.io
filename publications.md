@@ -16,47 +16,13 @@ For a full list of publications and citation counts/metrics, see the [ADS](https
 **JWST's PEARLS: A z=6 Quasar in a Train-Wreck Galaxy Merger System**<br>
 [arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)<br>
 
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
-.left {
-  width: 62%;
-}
 
-.right {
-  width: 38%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-</head>
-<body>
-  <div class="row">
-  <div class="column left">
 As part of the PEARLS GTO program, we observed the z=5.89 quasar NDWFS J1425+3254 with JWST NIRSpec integral field spectroscopy (IFS). 
 We find that the quasar host has significant ongoing obscured star formation, as well as possibly one of the most extreme quasar-driven outflows in the early Universe. 
 We find that two companion galaxies are merging with the quasar host, with a connecting bridge of gas between one companion and the quasar providing smoking-gun evidence for the ongoing interaction.
 The system is a "train-wreck" merger of three galaxies, with star formation and extreme quasar activity that were likely triggered by these ongoing interactions.
-  </div>
-      
-  <div class="column right">
-        <img src='../../NDWFS_Merger.png' border="0" width="350" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
-  </div>
-</div>
+
+<p style="text-align: center;"> <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> </p> <br>
 
 
 
