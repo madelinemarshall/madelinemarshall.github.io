@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
-tagline: List of first-author manuscripts
-ref: publications
+title: Research
+tagline: An overview of the research projects I have lead
+ref: research
 order: 1
 ---
 
@@ -69,7 +69,7 @@ growth mechanisms of black holes in Meraxes, finding that the majority of black 
 Our undergraduate student Laurie Amen developed code to make mock imaging for the upcoming CASTOR telescope. We used this code to predict the performance of the planned CASTOR extragalactic surveys.
 
 **Triggering active galactic nuclei in galaxy clusters** <br>
-[10.1093/mnras/stx2996](https://doi.org/10.1093/mnras/stx2996), [arXiv:1708.05519](https://arxiv.org/abs/1708.05519) <br>
+[DOI: 10.1093/mnras/stx2996](https://doi.org/10.1093/mnras/stx2996), [arXiv:1708.05519](https://arxiv.org/abs/1708.05519) <br>
 For my honours project, I used the semi-analytic galaxy formation model SAGE to study the triggering of active galactic nuclei (AGN) in galaxy clusters. We predicted that ram pressure is likely to be an important mechanism for triggering star formation and AGN activity in clusters, that has since been seen observationally.
 
 **Methanol absorption in PKS B1830-211 at milliarcsecond scales**<br>
