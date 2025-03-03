@@ -6,6 +6,7 @@ ref: research
 order: 1
 ---
 
+
   
 For a full list of publications and citation counts/metrics, see the [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6434-7845&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0) or [Google Scholar](https://scholar.google.com/citations?user=3WZ2z5gAAAAJ&hl=en).
 <br>
@@ -22,7 +23,8 @@ We find that the quasar host has significant ongoing obscured star formation, as
 We find that two companion galaxies are merging with the quasar host, with a connecting bridge of gas between one companion and the quasar providing smoking-gun evidence for the ongoing interaction.
 The system is a "train-wreck" merger of three galaxies, with star formation and extreme quasar activity that were likely triggered by these ongoing interactions.
 
-<p style="text-align: center;"> <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> </p> <br>
+<p style="text-align:center"> <img src='../../NDWFS_Merger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
+<sub> [OIII] velocity map for the train-wreck merger system NDWFS J1425+3254. Credits: M.Marshall </sub> </p>
 
 
 
@@ -58,6 +60,9 @@ With my undergraduate student Katelyn Watts, we created mock images of each Blue
 From these mock images, we made predictions for the expected number counts of observed high-z galaxies from JWST Cycle 1 surveys, as published in **"The BlueTides Mock Image Catalogue: Simulated observations of high-redshift galaxies and predictions for JWST imaging surveys"**
 [DOI: 10.1093/mnras/stac211](https://doi.org/10.1093/mnras/stac2111) [arxiv: 2206.08941](https://arxiv.org/abs/2206.08941).
 
+<p style="text-align: center;"> <img src='../../BlueTidesMerger.png' border="0" width="500" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top"> <br>
+  <sub>A merger of a quasar host galaxy in the BlueTides simulation. Credits: Y. Ni (Carnegie Mellon University) and L. Hustak (STScI)</sub>
+</p> 
 
 ## The Meraxes Semi-Analytic Model <br>
 
