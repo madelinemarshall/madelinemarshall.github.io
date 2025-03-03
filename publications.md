@@ -19,7 +19,7 @@ We find that the quasar host has significant ongoing obscured star formation, as
 We find that two companion galaxies are merging with the quasar host, with a connecting bridge of gas between one companion and the quasar providing smoking-gun evidence for the ongoing interaction.
 The system is a "train-wreck" merger of three galaxies, with star formation and extreme quasar activity that were likely triggered by these ongoing interactions.
 
-<p><img src='../../HeadShot.jpg' border="0" width="250" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
+<p><img src='../../NDWFS_Merger.png' border="0" width="250" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">  <br>
 
 
 **GA-NIFS & EIGER: A merging quasar host at z=7 with an overmassive black hole**<br>
