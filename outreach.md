@@ -7,10 +7,7 @@ order: 2
 ---
 
 **Print Interviews:** <br>
-
-<br>
-
-Read an overview of my most recent work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
+Read an overview of my work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
 
 I explained my work with JWST, as well as chatting about the first JWST science images, on the science podcast Spaghettification, that you can listen to <a href="https://open.spotify.com/episode/47AxjutjJLLFTrJ61AmMBX?si=3e0617e3a8604567">here</a>.
 For a full update on JWST and the science it can do, check out my interview on the science podcast Curiosity Killed the Rat,
