@@ -15,7 +15,7 @@ For a full list of publications and citation counts/metrics, see the [ADS](https
 ## Observations of High-Redshift Quasars <br>
 
 **JWST's PEARLS: A z=6 Quasar in a Train-Wreck Galaxy Merger System**<br>
-[arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)<br>
+[DOI: 10.1051/0004-6361/202554307](https://doi.org/10.1051/0004-6361/202554307) [arxiv: 2502.20550](https://arxiv.org/abs/2502.20550)<br>
 As part of the PEARLS GTO program, we observed the z=5.89 quasar NDWFS J1425+3254 with JWST NIRSpec integral field spectroscopy (IFS). 
 We find that the quasar host has significant ongoing obscured star formation, as well as possibly one of the most extreme quasar-driven outflows in the early Universe. 
 We find that two companion galaxies are merging with the quasar host, with a connecting bridge of gas between one companion and the quasar providing smoking-gun evidence for the ongoing interaction.
@@ -27,9 +27,9 @@ The system is a "train-wreck" merger of three galaxies, with star formation and 
 
 
 **GA-NIFS & EIGER: A merging quasar host at z=7 with an overmassive black hole**<br>
-[arxiv: 2402.17163](https://arxiv.org/abs/2402.17163)<br>
+[DOI: 10.1051/0004-6361/202452650](https://doi.org/10.1051/0004-6361/202452650) [arxiv: 2402.17163](https://arxiv.org/abs/2402.17163)<br>
 We combined JWST observations from the GA-NIFS (IFS) and EIGER (imaging) teams to study the z=7.08 quasar J1120+0641, giving the most comprehensive understanding of a high-z quasar host galaxy with JWST to date.
-We found that the quasar host is undergoing a merger with a bright companion galaxy. This alters the stellar mass measurements, which were previously overestimated due to the presence of this companion and a lack of emission line measurements. Now, we measure an extreme black hole-stellar mass ratio of ~50% for J1120, the most overmassive black hole ever discovered.
+We found that the quasar host is undergoing a merger with a bright companion galaxy. This alters the stellar mass measurements, which were previously overestimated due to the presence of this companion and a lack of emission line measurements. Now, we measure an extreme black hole-stellar mass ratio of ~63% for J1120, the most overmassive black hole ever discovered.
 
 
 **Black hole and host galaxy properties of two z ≃ 6.8 quasars from the NIRSpec IFU**<br>
