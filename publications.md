@@ -38,7 +38,7 @@ This work highlights the exceptional capabilities of the JWST NIRSpec IFS for ob
 We measured black hole masses, discovered multple merging companion galaxies, studied ionized gas outflows, and more.
 
 **Limits to Rest-Frame Ultraviolet Emission From Far-Infrared-Luminous z~6 Quasar Hosts.**<br>
-[DOI:10.3847/1538-4357/abaa4c](https://doi.org/10.3847/1538-4357/abaa4c), [arXiv:2007.13859](https://arxiv.org/abs/2007.13859)<br>
+[DOI:10.3847/1538-4357/abaa4c](https://doi.org/10.3847/1538-4357/abaa4c) [arXiv:2007.13859](https://arxiv.org/abs/2007.13859)<br>
 We used observations from HST to obtain deep upper limits on the rest-frame ultraviolet luminosities of six z=6 quasar host galaxies. We discover up to 9 potential
 companion galaxies surrounding these quasars, which may be interacting with their host galaxies. The two potential companions around NDWFS J1425+3254 have since been spectroscopically confirmed with our JWST data.
 
@@ -46,7 +46,7 @@ companion galaxies surrounding these quasars, which may be interacting with thei
 ## The BlueTides Hydrodynamical Simulation<br>
 Using the BlueTides cosmological hydrodynamical simulation, I have studied a range of properties of high-z galaxies and quasars.
 
-In **"The host galaxies of z=7 quasars: predictions from the BlueTides simulation"** [DOI: 10.1093/mnras/staa2982](https://doi.org/10.1093/mnras/staa2982), [arXiv:1912.03428](https://arxiv.org/abs/1912.03428), we studied the physical properties of z=7 quasar host galaxies within the simulation, such as their stellar masses, morphologies, sizes, and their location on the black hole–stellar mass relation.
+In **"The host galaxies of z=7 quasars: predictions from the BlueTides simulation"** [DOI: 10.1093/mnras/staa2982](https://doi.org/10.1093/mnras/staa2982) [arXiv:1912.03428](https://arxiv.org/abs/1912.03428), we studied the physical properties of z=7 quasar host galaxies within the simulation, such as their stellar masses, morphologies, sizes, and their location on the black hole–stellar mass relation.
 We then made explicit predictions for whether JWST could successfully detect these host galaxies in
 **"Observing the host galaxies of high-redshift quasars with JWST: predictions from the BlueTides simulation"** [DOI: 10.1093/mnras/stab1763](https://doi.org/10.1093/mnras/stab1763) [arXiv:2101.01219](https://arxiv.org/abs/2101.01219), by creating mock images and then performing observational quasar-subtraction techniques.
 We predicted that quasar subtraction will be challenging, however a reasonable fraction of quasar host galaxies should be detectable with JWST NIRCam, which has indeed been true.
@@ -78,7 +78,7 @@ growth mechanisms of black holes in Meraxes, finding that the majority of black 
 Our undergraduate student Laurie Amen developed code to make mock images for the upcoming CASTOR telescope. We used this code to predict the performance of the planned CASTOR extragalactic surveys.
 
 **Triggering active galactic nuclei in galaxy clusters** <br>
-[DOI: 10.1093/mnras/stx2996](https://doi.org/10.1093/mnras/stx2996), [arXiv:1708.05519](https://arxiv.org/abs/1708.05519) <br>
+[DOI: 10.1093/mnras/stx2996](https://doi.org/10.1093/mnras/stx2996) [arXiv:1708.05519](https://arxiv.org/abs/1708.05519) <br>
 For my honours project, I used the semi-analytic galaxy formation model SAGE to study the triggering of active galactic nuclei (AGN) in galaxy clusters. We predicted that ram pressure is likely to be an important mechanism for triggering star formation and AGN activity in clusters, that has since been seen observationally.
 
 **Methanol absorption in PKS B1830-211 at milliarcsecond scales**<br>
