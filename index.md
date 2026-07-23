@@ -52,7 +52,7 @@ tagline:
     <b>Dr Madeline Marshall</b> (Maddie, she/her)<br>
     <br>
     Tasmanian astrophysicist. <br><br>
-    Currently an Oppenheimer Fellow at Los Alamos National Laboratory, in Los Alamos, New Mexico. <br><br>
+    Currently a J. R. Oppenheimer Fellow at Los Alamos National Laboratory, in Los Alamos, New Mexico. <br><br>
 
     Studies galaxies and supermassive black holes in the early Universe using computer simulations and space telescopes. <br>
     Key research topics: high-z quasar host galaxies, creating mock observations for telescope predictions and comparisons, quasar-host decomposition, black hole and galaxy scaling relations, high-z quasars, HST & JWST imaging, JWST IFU spectroscopy, hydrodynamical simulations, and semi-analytic models.  <br><br>
