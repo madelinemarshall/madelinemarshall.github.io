@@ -7,6 +7,8 @@ order: 2
 ---
 
 **Print Interviews:** <br>
+Read about our discovery of an extremely overmassive black hole in the $z=7$ quasar J1120+0641, with a black hole around 60% the mass of its host galaxy, in this <a href="https://www.sciencenews.org/article/quasar-black-hole-oddly-huge">Science News article</a>.
+
 Read an overview of my work simulating high-redshift quasar host galaxies and find out why we're so optimistic about JWST in this nice <a href="https://physics.aps.org/articles/v15/24">Physics magazine article</a>.
 
 I explained my work with JWST, as well as chatting about the first JWST science images, on the science podcast Spaghettification, that you can listen to <a href="https://open.spotify.com/episode/47AxjutjJLLFTrJ61AmMBX?si=3e0617e3a8604567">here</a>.
